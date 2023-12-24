@@ -1,8 +1,5 @@
 // PROGRAMMER: Ruth Dohrmann
-// PROJECT: project 4, part III
 // FILE: fan.js
-// DUE DATE: 12/12/23
-// INSTRUCTOR: Dr. Cen Li
 //
 // Description: This file includes the vertices array
 // and functions for generating points and drawing
