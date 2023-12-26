@@ -1,8 +1,5 @@
 // PROGRAMMER: Ruth Dohrmann
-// PROJECT: project 4, part III
 // PROGRAM: studynook.js
-// DUE DATE: 12/12/23
-// INSTRUCTOR: Dr. Cen Li
 //
 // Description: This program calculates the points of a cube, a
 // sphere, a cylinder, a file holder, a curtain, a candlestick,
