@@ -13,3 +13,5 @@ The program utilizes WebGL to create a scene that includes a table, chair, curta
 ![studynook5](https://github.com/redohrm/Study-Nook/assets/149263840/70c97dab-6fb9-40b5-8981-4f0b5aeba542)
 
 ![studynook6](https://github.com/redohrm/Study-Nook/assets/149263840/f98a3404-68be-4ea4-af3b-8d6ee5192174)
+
+Animation Demonstration:
